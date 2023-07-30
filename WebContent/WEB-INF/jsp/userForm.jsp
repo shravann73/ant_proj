@@ -57,7 +57,7 @@
 		</tr>
 	</table>
 
-<table width="50%" bgcolor="red" align="center" border=3>
+<table width="50%" bgcolor="orange" align="center" border=3>
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
 </tr>
